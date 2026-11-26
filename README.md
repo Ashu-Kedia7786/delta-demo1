@@ -4,5 +4,5 @@ This is the first time  in git .
 # teacher 
 ashu kedia 
 
-# sytudent
+# student
 ayush kkedia
